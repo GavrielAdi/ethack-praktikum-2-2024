@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Mon May  6 22:34:13 2024 as: nmap -sV -sC -oN nmapip1lanjutan.log 10.15.42.36:21
+Failed to resolve "10.15.42.36:21".
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Mon May  6 22:34:13 2024 -- 0 IP addresses (0 hosts up) scanned in 0.23 seconds
